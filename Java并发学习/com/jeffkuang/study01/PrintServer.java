@@ -4,7 +4,7 @@
 package com.jeffkuang.study01;
 
 /**
- * @author Administrator
+ * @author Jeff Kuang
  *
  */
 public class PrintServer implements Runnable {
